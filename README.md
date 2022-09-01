@@ -1,12 +1,11 @@
 ### Oláa, eu sou o Leo Oli. Muito Prazer! 👋
-
+<br>
 
   Atualmente eu estou...
 
-- 🪙 Ensinando como investir em Crypto!
-- 🌱 Estudando Javascrypt.                  - 👯 Procurando colaborar em projetos.
+- 🪙 Ensinando como invest                  ir em Crypto!- 🌱 Estudando Javascrypt.                  - 👯 Procurando colaborar em projetos.
   
-  
+  <br>
   Para me conhecer melhor:
   
 - 💬 Me pergunte como começar a investir.                  - 🎮 Me chame para jogar!
