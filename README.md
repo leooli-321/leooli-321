@@ -1,16 +1,35 @@
-### Oláa, eu sou o Leo Oli. Muito Prazer! 👋
-<br>
+# Oláa, eu sou o Leo Oli! 👋
 
-  Atualmente eu estou...
+  ### Atualmente eu estou...</p>
 
-- 🪙 Ensinando como investir em Crypto!- <p> 🌱 Estudando Javascrypt.                - 👯 Procurando colaborar em projetos.
+- 🪙 Ensinando como investir em Crypto!<br>
+- 🌱 Estudando Javascrypt.<br>
+- 👯 Procurando colaborar em projetos.
   
   <br>
-  Para me conhecer melhor:
+
+ <div>
+   <a href="https://github.com/leooli-321">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leooli-321&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leooli-321&layout=compact&langs_count=6&theme=tokyonight"/>
+
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+ <br>
+ 
+  ## Para me conhecer melhor:
+ 
+<div> 
+  <a href="https://www.instagram.com/leooli321" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/SE7G494CuT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
-- 💬 Me pergunte como começar a investir.            - 🎮 Me chame para jogar!
+ - ⚡ Fun fact: Eu toco mais de 7 instrumentos!
+ 
+  ![Snake animation](https://github.com/leooli-321/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
-
-- 📫 [Acesse meu site](https://beacons.ai/leooli)                 - ⚡ Fun fact: Eu toco mais de 7 instrumentos!
-
-
+</div>
