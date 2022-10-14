@@ -30,6 +30,6 @@
   
  - ⚡ Fun fact: Eu toco mais de 7 instrumentos!
  
-  ![Snake animation](https://github.com/leooli-321/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/leooli-321/leooli-321/blob/output/github-contribution-grid-snake.svg)
 
 </div>
