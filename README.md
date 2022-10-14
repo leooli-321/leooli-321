@@ -5,13 +5,13 @@
 - 🪙 Ensinando como investir em Crypto!<br>
 - 🌱 Estudando Javascrypt.<br>
 - 👯 Procurando colaborar em projetos.
-  
+- ⚡ Fun fact: Eu toco mais de 7 instrumentos!
   <br>
 
  <div>
    <a href="https://github.com/leooli-321">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leooli-321&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leooli-321&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leooli-321&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leooli-321&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -28,7 +28,7 @@
   <a href="https://www.instagram.com/leooli321" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/SE7G494CuT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
- - ⚡ Fun fact: Eu toco mais de 7 instrumentos!
+
  
   ![Snake animation](https://github.com/leooli-321/leooli-321/blob/output/github-contribution-grid-snake.svg)
 
