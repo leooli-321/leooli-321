@@ -3,8 +3,8 @@
   ### Atualmente eu estou...</p>
 
 - 🪙 Ensinando como investir em Crypto!<br>
-- 🌱 Estudando Javascrypt.<br>
-- 👯 Procurando colaborar em projetos.
+- 🌱 Estudando Angular<br>
+- 👯 Procurando colaborar em projetos
 - ⚡ Fun fact: Eu toco mais de 7 instrumentos!
   <br>
 
