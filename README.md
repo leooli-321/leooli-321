@@ -3,7 +3,7 @@
   ### Atualmente eu estou...</p>
 
 - 🪙 Ensinando como investir em Crypto!<br>
-- 🌱 Estudando Angular<br>
+- 🌱 Estudando na FIAP<br>
 - 👯 Procurando colaborar em projetos
 - ⚡ Fun fact: Eu toco mais de 7 instrumentos!
   <br>
